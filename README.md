@@ -61,6 +61,7 @@ CNKI_spider is a Python application designed to automate the retrieval of academ
 - **Excel Output:** Exports search results into a well-organized Excel file for easy reference and further analysis.
 - **Year-Wise Statistics:** Includes a feature to count and summarize the number of documents published per year.
 - **Data Enrichment:** Retrieves full document details including titles, authors, publication years, and abstracts.
+![](./README/output.png)
 
 ### Prerequisites
 
