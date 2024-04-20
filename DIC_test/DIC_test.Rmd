@@ -1,3 +1,9 @@
+---
+output:
+  word_document: default
+  html_document: default
+  pdf_document: default
+---
 # 1. APTT
 ```{r}
 # 1 代表正常， 2代表DIC组
