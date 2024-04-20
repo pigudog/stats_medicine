@@ -32,3 +32,22 @@ PT and FIB indices in the experimental and control groups.
 Updated December 2023
 
 Line graph of potassium ion concentration as a function of time
+
+## LD50zyy
+Updated November 2023
+
+This R package is used to calculate LD50 with Bliss & Karbor
+
+LD50: Median Lethal Dose,LD50, or The dose that causes half of the deaths 
+in a group of experimental animals is a statistically calculated value 
+that is often used to express and compare acute toxicity.The smaller the 
+LD50 value, the more toxic the exogenous chemical is, and conversely, 
+the larger the value, the less toxic it is.
+
+There are many ways to calculate the LD50, 
+which requires statistical analysis to obtain the LD50 and 
+the 95% confidence limit range. 
+Commonly used are the modified Karber method, 
+the Horn method and 
+the Bliss method.
+
