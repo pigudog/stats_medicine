@@ -2,17 +2,49 @@
  Some projects related with medical statistics
  
 ## Stats_python_R
-Updated April 2023
+Updated: April 2023
 
-Due to the study of medical statistics this semester, 
-in order to further expand the knowledge of statistics, 
-the author has organized the statistical codes shared by Professor Li.
+Acknowledgment:
+A heartfelt thank you to Professor Li for his generous sharing of statistical codes.
 
-Thanks again to Prof. Li for his selfless sharing of the code!
+During this semester's study of medical statistics, in an effort to expand my knowledge in the field of statistics, I have compiled the statistical codes provided by Professor Li.
 
-This course combines the principles of statistical and data analysis with Python to explain and practice, covering most of the statistical & data analysis models, especially the more mainstream algorithms: parameter estimation, hypothesis testing, linear regression, generalized linear regression, nonlinear models, Lasso, ridge regression, generalized additive models, orthogonal polynomial models, regression spline, etc.; one-way and two-way ANOVA; Principal Component Analysis, Factor Analysis, Typical Correlation Analysis, Cluster Analysis, etc., which are often used in machine learning; Various non-parametric statistical models, including non-parametric statistical inference, scale inference, location inference, analysis of linked-table data and attribute data, log-linear and quantile regression models, non-parametric kernel density estimation, and non-parametric regression.
+Course Overview:
 
-reference: https://github.com/jinhualee/datashine
+    Course Title: "Python for Statistical and Data Analysis Practical Application"
+    Course Link: https://github.com/jinhualee/datashine
+
+Course Highlights:
+
+    Integrates the principles of statistics and data analysis with Python for both theoretical explanation and practical application.
+    Covers a wide range of statistical and data analysis models, especially mainstream algorithms such as:
+        Parameter Estimation
+        Hypothesis Testing
+        Linear Regression
+        Generalized Linear Regression
+        Nonlinear Models
+        Lasso (Least Absolute Shrinkage and Selection Operator)
+        Ridge Regression
+        Generalized Additive Models
+        Orthogonal Polynomial Models
+        Regression Splines
+    Includes both one-way and two-way ANOVA (Analysis of Variance).
+    Commonly used in machine learning:
+        Principal Component Analysis (PCA)
+        Factor Analysis
+        Canonical Correlation Analysis
+        Cluster Analysis
+    A variety of non-parametric statistical models, including:
+        Non-parametric Statistical Inference
+        Scale Inference
+        Location Inference
+        Analysis of Contingency Table Data
+        Attribute Data Analysis
+        Log-Linear Models
+        Quantile Regression Models
+        Non-parametric Kernel Density Estimation
+        Non-parametric Regression
+
  
 ## DIC_test
 Updated December 2023
