@@ -1,10 +1,10 @@
 # stats_medical
  Some projects related to medical statistics
- - Stats_python_R
- - CNKI_spider
- - DIC_test
- - K_ion
- - LD50zyy
+- **Stats_python_R**: A project that utilizes both Python and R to perform statistical analysis on medical data, demonstrating the strengths and methodologies of each language in statistical computation.
+- **CNKI_spider**: A Python application designed for automated retrieval of academic papers from the CNKI website, facilitating efficient literature review and data collection for medical research.
+- **DIC_test**: A statistical tool for calculating the Disseminated Intravascular Coagulation (DIC) score, an important diagnostic indicator in medical statistics for conditions involving abnormal blood clotting.
+- **K_ion**: A project that models and analyzes the concentration and effects of potassium ions (K⁺) in biological systems, critical for understanding their role in various medical conditions.
+-  **LD50zyy**: A tool for calculating the median lethal dose (LD50), a measure used in toxicology to predict the lethality of substances in medical and pharmaceutical research.
  
 ## Stats_python_R
 Updated: April 2023
