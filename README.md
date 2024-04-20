@@ -108,4 +108,4 @@ Commonly used are the modified Karber method,
 the Horn method and 
 the Bliss method.
 
-![](./README/Pasted image 20231006201759.png)
+![](./README/LD50.png)
