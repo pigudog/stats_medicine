@@ -5,7 +5,7 @@
 Updated: April 2023
 
 Acknowledgment:
-A heartfelt thank you to Professor Li for his generous sharing of statistical codes.
+A heartfelt appreciation to Professor Li for his generous sharing of statistical codes.
 
 During this semester's study of medical statistics, in an effort to expand my knowledge in the field of statistics, I have compiled the statistical codes provided by Professor Li.
 
