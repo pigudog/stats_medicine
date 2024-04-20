@@ -7,6 +7,7 @@ This GitHub repository serves as a comprehensive compilation of statistical proj
 
 - **Stats_python_R**: A project that utilizes both Python and R to perform statistical analysis on medical data, demonstrating the strengths and methodologies of each language in statistical computation.
 - **CNKI_spider**: A Python application designed for automated retrieval of academic papers from the CNKI website, facilitating efficient literature review and data collection for medical research.
+- **Cytoscape Tutorial**: https://github.com/pigudog/cytoscape
 - **DIC_test**: A statistical tool for calculating the Disseminated Intravascular Coagulation (DIC) score, an important diagnostic indicator in medical statistics for conditions involving abnormal blood clotting.
 - **K_ion**: A project that models and analyzes the concentration and effects of potassium ions (K⁺) in biological systems, critical for understanding their role in various medical conditions.
 -  **LD50zyy**: A tool for calculating the median lethal dose (LD50), a measure used in toxicology to predict the lethality of substances in medical and pharmaceutical research.
@@ -82,6 +83,12 @@ CNKI_spider is a Python application designed to automate the retrieval of academ
 
 - Python 3.x
 - chrome.exe ![](./README/CNKI.png)
+
+# Cytoscape
+ The github repository was originally set up to complete a course assignment for the “Introduction to Bioinformatics” course in the fall of 2023. 
+ 
+ In order to better understand and build network diagrams, the author starts with the introduction of the use of Cytoscape software, and at the same time, a deeper exploration of Python, R, and network diagram visualization is carried out
+
 
 ## DIC_test
 Updated December 2023
