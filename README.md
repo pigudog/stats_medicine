@@ -2,11 +2,13 @@
  Some projects related with medical statistics
  
 ## Stats_python_R
-
+Updated April 2023
 
 Due to the study of medical statistics this semester, 
 in order to further expand the knowledge of statistics, 
 the author has organized the statistical codes shared by Professor Li.
+
+Thanks again to Prof. Li for his selfless sharing of the code!
 
 This course combines the principles of statistical and data analysis with Python to explain and practice, covering most of the statistical & data analysis models, especially the more mainstream algorithms: parameter estimation, hypothesis testing, linear regression, generalized linear regression, nonlinear models, Lasso, ridge regression, generalized additive models, orthogonal polynomial models, regression spline, etc.; one-way and two-way ANOVA; Principal Component Analysis, Factor Analysis, Typical Correlation Analysis, Cluster Analysis, etc., which are often used in machine learning; Various non-parametric statistical models, including non-parametric statistical inference, scale inference, location inference, analysis of linked-table data and attribute data, log-linear and quantile regression models, non-parametric kernel density estimation, and non-parametric regression.
 
