@@ -85,6 +85,8 @@ PT and FIB indices in the experimental and control groups.
 ## K_ion
 Updated December 2023
 
+![](./K_ion/scatter.png)
+
 Line graph of potassium ion concentration as a function of time
 
 ## LD50zyy
