@@ -81,6 +81,7 @@ PT and FIB indices in the experimental and control groups.
 - APTT (activated partial thromboplastin time): mainly reflects the status of the endogenous coagulation pathway and the common coagulation pathway. activators added to the APTT test include phospholipids (PL) and calcium ions (Ca2+), so prolongation of the APTT is usually indicative of a lack of coagulation factors in the endogenous pathway (e.g., XII, XI, IX, VIII) or of low activity. ..
 
 - TT (prothrombin time): mainly reflects the status of fibrinogen conversion in the common coagulation pathway. thrombin is added directly to the TT assay, so prolongation of the TT usually suggests that the amount or function of fibrinogen is abnormal, or that anti-fibrinogen antibodies are present.
+![](./README/APTT.png)
 
 ## K_ion
 Updated December 2023
@@ -107,3 +108,4 @@ Commonly used are the modified Karber method,
 the Horn method and 
 the Bliss method.
 
+![](./README/Pasted image 20231006201759.png)
