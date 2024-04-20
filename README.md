@@ -1,5 +1,9 @@
 # stats_medical
  Some projects related to medical statistics
+ - Stats_python_R
+ - DIC_test
+ - K_ion
+ - LD50zyy
  
 ## Stats_python_R
 Updated: April 2023
