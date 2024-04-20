@@ -1,6 +1,7 @@
 # stats_medical
  Some projects related to medical statistics
  - Stats_python_R
+ - CNKI_spider
  - DIC_test
  - K_ion
  - LD50zyy
@@ -49,7 +50,23 @@ Course Highlights:
     - Non-parametric Kernel Density Estimation
     - Non-parametric Regression
 
+# CNKI_spider
+ Updated: March 2023
  
+CNKI_spider is a Python application designed to automate the retrieval of academic documents from the China National Knowledge Infrastructure (CNKI) and organize the collected data into an Excel spreadsheet. This tool not only simplifies the literature search process but also provides a statistical analysis of the retrieved documents based on their publication years.
+
+### Key Features
+
+- **Automated Literature Search:** Systematically searches for academic papers on CNKI according to user-defined criteria.
+- **Excel Output:** Exports search results into a well-organized Excel file for easy reference and further analysis.
+- **Year-Wise Statistics:** Includes a feature to count and summarize the number of documents published per year.
+- **Data Enrichment:** Retrieves full document details including titles, authors, publication years, and abstracts.
+
+### Prerequisites
+
+- Python 3.x
+- chrome.exe ![](./README/CNKI.png)
+
 ## DIC_test
 Updated December 2023
 
