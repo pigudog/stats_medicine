@@ -1,11 +1,26 @@
 # stats_medical
- Some projects related to medical statistics
+**Description:**
+
+This GitHub repository serves as a comprehensive compilation of statistical projects undertaken by a medical student at Fudan University. It is a curated collection of coursework assignments and extracurricular explorations in the realm of medical statistics. Each project within this repository represents a step in the journey to understand and apply statistical methods to medical research, reflecting the academic rigor and practical applications of statistical analysis in healthcare and medicine.
+
+**Project**
+
 - **Stats_python_R**: A project that utilizes both Python and R to perform statistical analysis on medical data, demonstrating the strengths and methodologies of each language in statistical computation.
 - **CNKI_spider**: A Python application designed for automated retrieval of academic papers from the CNKI website, facilitating efficient literature review and data collection for medical research.
 - **DIC_test**: A statistical tool for calculating the Disseminated Intravascular Coagulation (DIC) score, an important diagnostic indicator in medical statistics for conditions involving abnormal blood clotting.
 - **K_ion**: A project that models and analyzes the concentration and effects of potassium ions (K⁺) in biological systems, critical for understanding their role in various medical conditions.
 -  **LD50zyy**: A tool for calculating the median lethal dose (LD50), a measure used in toxicology to predict the lethality of substances in medical and pharmaceutical research.
- 
+
+**Usage:**
+
+-   Students and researchers can use this repository as a reference for statistical methodologies in a medical context.
+-   Educators may find the projects helpful as examples for teaching the application of statistics in medical studies.
+
+**Contributing:**
+
+Contributions to the repository are welcome, especially from peers and professionals in the field of medical statistics and healthcare analytics.
+
+# Project
 ## Stats_python_R
 Updated: April 2023
 
