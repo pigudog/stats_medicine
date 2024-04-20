@@ -7,7 +7,7 @@ Updated: April 2023
 Acknowledgment:
 A heartfelt appreciation to Professor Li for his generous sharing of statistical codes.
 
-During this semester's study of medical statistics, in an effort to expand my knowledge in the field of statistics, I have compiled the statistical codes provided by Professor Li.
+During this semester's study of medical statistics, not only have I compiled the statistical codes provided by Professor Li, but I have also integrated knowledge from the undergraduate medical statistics course at Fudan University in an effort to expand my understanding in the field of statistics.
 
 Course Overview:
 
