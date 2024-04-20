@@ -16,34 +16,34 @@ Course Overview:
 
 Course Highlights:
 
-    - Integrates the principles of statistics and data analysis with Python for both theoretical explanation and practical application.
-    - Covers a wide range of statistical and data analysis models, especially mainstream algorithms such as:
-        - Parameter Estimation
-        - Hypothesis Testing
-        - Linear Regression
-        - Generalized Linear Regression
-        - Nonlinear Models
-        - Lasso (Least Absolute Shrinkage and Selection Operator)
-        - Ridge Regression
-        - Generalized Additive Models
-        - Orthogonal Polynomial Models
-        - Regression Splines
-    - Includes both one-way and two-way ANOVA (Analysis of Variance).
-    - Commonly used in machine learning:
-        - Principal Component Analysis (PCA)
-        - Factor Analysis
-        - Canonical Correlation Analysis
-        - Cluster Analysis
-    - A variety of non-parametric statistical models, including:
-        - Non-parametric Statistical Inference
-        - Scale Inference
-        - Location Inference
-        - Analysis of Contingency Table Data
-        - Attribute Data Analysis
-        - Log-Linear Models
-        - Quantile Regression Models
-        - Non-parametric Kernel Density Estimation
-        - Non-parametric Regression
+- Integrates the principles of statistics and data analysis with Python for both theoretical explanation and practical application.
+- Covers a wide range of statistical and data analysis models, especially mainstream algorithms such as:
+    - Parameter Estimation
+    - Hypothesis Testing
+    - Linear Regression
+    - Generalized Linear Regression
+    - Nonlinear Models
+    - Lasso (Least Absolute Shrinkage and Selection Operator)
+    - Ridge Regression
+    - Generalized Additive Models
+    - Orthogonal Polynomial Models
+    - Regression Splines
+- Includes both one-way and two-way ANOVA (Analysis of Variance).
+- Commonly used in machine learning:
+    - Principal Component Analysis (PCA)
+    - Factor Analysis
+    - Canonical Correlation Analysis
+    - Cluster Analysis
+- A variety of non-parametric statistical models, including:
+    - Non-parametric Statistical Inference
+    - Scale Inference
+    - Location Inference
+    - Analysis of Contingency Table Data
+    - Attribute Data Analysis
+    - Log-Linear Models
+    - Quantile Regression Models
+    - Non-parametric Kernel Density Estimation
+    - Non-parametric Regression
 
  
 ## DIC_test
