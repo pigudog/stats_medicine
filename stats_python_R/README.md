@@ -51,3 +51,4 @@ key words: Observation Study; Descriptive Study; Analytical Study; Cross-Section
 Each method has unique advantages and disadvantages. Simple random sampling is easy and straightforward but might not be feasible for large populations. Systematic sampling is slightly more complex but still easy to implement. Stratified sampling can provide more representative samples when there are major differences in characteristics within a population. Finally, cluster sampling can reduce costs when the population is large and spread out geographically, but it might introduce more sampling error compared to other methods. The best method to use depends on the available resources and the nature of the population and research question.
 
 A multistage sampling is suggested!
+![](content.jpg)
