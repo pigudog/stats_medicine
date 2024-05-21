@@ -144,13 +144,13 @@ load("Pubmed_results.rda")
 # stopwords = stopwords::data_stopwords_stopwordsiso$en：这会移除文本中的英文停用词（常见的，但在本分析中不重要的词汇）。
 pm_terms_title <- litsearchr::extract_terms(text = Pubmed_results[,"title"],
                                             method = "fakerake", 
-                                            min_freq = 3, 
+                                            min_freq = 10, 
                                             min_n = 2,
                                             stopwords = stopwords::data_stopwords_stopwordsiso$en)
 
 # Extract terms from keywords
 pm_terms_keywords <- litsearchr::extract_terms(keywords = trimws(unlist(strsplit(Pubmed_results[,"keywords"], ";"))),
-                                               method = "tagged", min_freq = 3, min_n = 1, max_n = 5)
+                                               method = "tagged", min_freq = 10, min_n = 1, max_n = 5)
 
 # Pool the extracted terms together
 pm_terms <- c(pm_terms_title, pm_terms_keywords)
@@ -197,9 +197,5 @@ library(patchwork)
 p <- p1 + p2 + plot_layout(ncol = 2)
 p
 #p <- p1 / p2
-ggsave(file.path(folder_name, "Term_Analysis.pdf"), plot = p, width = 10, height = 5)
-} else {
-  cat("Skipping term analysis.🐷\n")
-}
-#return(Pubmed_results)
-cat("Congratulations, you're done using DXMeSH.🎉\n")
+ggsave(file.path( "Term_Analysis1.pdf"), plot = p, width = 16, height = 8)
+
